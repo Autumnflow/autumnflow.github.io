@@ -1,6 +1,6 @@
-{"hash": "ca47c4f275ddd3948e847a28293a8bc65fc83f2b",
- "version": "FPM v2.5.2 Ausbuild v1.2.2",
- "changelog": "Ausbuild - Updated build to P+ v2.5.2",
+{"hash": "11186e1b3b09a269679f2ee0dfea2406fbc02e8d",
+ "version": "FPM v2.5.2 Ausbuild v1.2.2b",
+ "changelog": "Ausbuild - Updated build to P+ v2.5.2 (HOTFIX PATCH)",
  "update-page": "https://projectplusgame.com/download/",
- "download-page-windows": "https://onedrive.live.com/download?resid=2481577828CEE1FF%213350&authkey=!AJyFfLnc6A4j3ZU",
+ "download-page-windows": "https://onedrive.live.com/download?resid=2481577828CEE1FF%213351&authkey=!AFMQI7EsH8zeC7s",
  "download-page-mac": "https://github.com/jlambert360/PPlusReleases/releases/download/2.25/PPlusv2.29Mac.zip"}
